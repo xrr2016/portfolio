@@ -8,7 +8,8 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxt/content",
     "@nuxthq/studio",
-    "@vueuse/nuxt"
+    "@vueuse/nuxt",
+    "@nuxthub/core",
   ],
   ui: {
     icons: ["heroicons", "lucide"],
